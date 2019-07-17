@@ -1,0 +1,24 @@
+body{
+	background-color: silver;
+}
+.mybutton {
+  border: none;
+  color: black;
+  width: 50%;
+  padding: 14px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  cursor: pointer;
+  opacity: 0.5;
+  margin-left: 25%;
+}
+.mybutton:hover {opacity: 1}
+#green_button {background-color: #00FFBA;} /* Green */
+#blue_button {background-color: #008CBA;} /* Blue */
+#red_button {background-color: #f44336;} /* Red */ 
+#gray_button {background-color: #e7e7e7; color: black;} /* Gray */ 
+#black_button {background-color: #555555;} /* Black */
+#yellow_button{background-color: yellow}
+#purple_button{background-color: purple}
