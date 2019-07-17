@@ -1,0 +1,1 @@
+<?php header( 'Location: /pick_color.html' ) ;  ?>
